@@ -5,14 +5,15 @@ $(document).ready(function () {
     const os = parseInt($("select#os").val());
     const music = parseInt($("select#music").val());
     const food = parseInt($("select#food").val());
-    let result = (game + country + os + music + food);
-    if (result >= 5 && result <= 8) {
+    let value = (game + country + os + music + food);
+    alert(value);
+    if (value >= 5 && value <= 8) {
       $("#result").text("C#");
-    } else if (result >= 9 && result <= 12) {
+    } else if (value >= 9 && value <= 12) {
       $("#result").text("Python"); 
     } else {
       $("#result").text("javascript");
     }
     event.preventDefault();
-  })
+  });
 });
