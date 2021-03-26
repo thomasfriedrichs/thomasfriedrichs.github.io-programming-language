@@ -11,10 +11,40 @@
   <title>Programming Language Suggester</title>
 </head>
 <body>
-  <h1>Programming Language Suggester</h1>
-  <div>
-    <p class="prompt">Which programming language you chose to learn can be a tough descision to make, were here to help! Answer the questions below and we'll match you with the right fit. </p>
+  <div class="container">
+    <div class="jumbotron jumbotron-fluid">
+      <h1>Programming Language Suggester</h1>
+      <p class="prompt">Which programming language you chose to learn can be a tough descision to make, were here to help! Answer the questions below and we'll match you with the right fit. </p>
+    </div>
+    <div>
+      <form id="form">
+        <div class="form-group">
+          <label for="game">Which video game do you prefer?</label>
+          <select class="custom-select" id="game">
+            <option value="1">Assasins Creed</option>
+            <option value="2">Rust</option>
+            <option value="3">Call of Duty</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="country">Which country would you like to visit?</label>
+          <select class="custom-select" id="country">
+            <option value="1">Germany</option>
+            <option value="2">Korea</option>
+            <option value="3">Argentina</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="os">Which operating system do you prefer?</label>
+          <select class="custom-select" id="os">
+            <option value="1">MacOsx</option>
+            <option value="2">Windows</option>
+            <option value="3">Linux</option>
+          </select>
+        </div>
+        
+      </form>
+    </div>
   </div>
-  
 </body>
 </html>
