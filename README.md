@@ -17,13 +17,11 @@ _{This application uses select box forms to gather data from the user and record
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Web Browser 
+* Internet access
+* https://github.io/thomasfriedrichs/language-selector
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+_{Start by going to the Github link and clicking on it. Then copy and save the file onto your desktop. you can then drag and drop the index.html into your web browser. the project should be fully functional.}_
 
 ## Known Bugs
 
