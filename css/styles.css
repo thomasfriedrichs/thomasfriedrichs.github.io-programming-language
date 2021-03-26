@@ -3,4 +3,13 @@
 }
 h1 {
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  letter-spacing: 1.5px;
+}
+.result {
+  display: none;
+}
+.jumbotronjumbotron-fluid {
+  border-radius: 20px;
 }
