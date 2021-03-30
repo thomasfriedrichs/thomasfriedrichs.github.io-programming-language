@@ -4,6 +4,8 @@
 
 #### By _**{Thomas Friedrichs}**_
 
+* https://thomasfriedrichs.github.io/thomasfriedrichs.github.io-programming-language/
+
 ## Technologies Used
 
 * VS code
@@ -19,7 +21,7 @@ _{This application uses select box forms to gather data from the user and record
 
 * Web Browser 
 * Internet access
-* https://github.io/thomasfriedrichs/language-selector
+
 
 _{Start by going to the Github link and clicking on it. Then copy and save the file onto your desktop. you can then drag and drop the index.html into your web browser. the project should be fully functional.}_
 
